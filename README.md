@@ -11,6 +11,8 @@ This demo utilizes both html and js to show how the two balls (eyes) will follow
 3. The two balls will follow your mouse cursor.
 
 ## Future Improvements
+- The ability to click the cursor and pause the location in it's current state.
+- Updating the html to have more feature beyond the eyes (eyelashes, face, hair, etc.)
 
 
 ## License Info
