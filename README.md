@@ -15,7 +15,7 @@ This demo utilizes both html and js to show how the two balls (eyes) will follow
 
 ## License Info
 
-<a href="https://choosealicense.com/licenses/mit/>MIT</a>
+<a href="https://choosealicense.com/licenses/mit/">MIT</a>
 
 Copyright (c) 2023 Jessica Cousins
 
